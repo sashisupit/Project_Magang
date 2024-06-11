@@ -36,10 +36,9 @@ const PermintaanForm: React.FC<{
 
     const subKategoriList = [
         { label: "Laptop", value: "Laptop" },
+        { label: "PC", value: "PC" },
         { label: "Printer", value: "Printer" },
         { label: "Proyektor", value: "Proyektor" },
-        { label: "Konsultasi", value: "Konsultasi" },
-        { label: "Pengembangan", value: "Pengembangan" },
         { label: "Sistem Operasi", value: "Sistem Operasi" },
         { label: "Aplikasi", value: "Aplikasi" },
         
